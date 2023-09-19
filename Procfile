@@ -1,1 +1,1 @@
-worker: python botwe.py
+worker: python commy2.py
